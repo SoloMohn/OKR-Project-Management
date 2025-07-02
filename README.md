@@ -1,21 +1,14 @@
 # OKR (Objective Key Results) Project Management System
-A Comprehensive OKR Project Management System
+## PeopleCore Consulting: OKR Project
 
 ## Introduction
 About the Project:
 
-This project showcases the design and implementation of an OKR-based project management system tailored for a fictional B2B organization, PeopleCore Consulting - an HR advisory firm specializing in talent optimization, leadership development, and workforce analytics.
+This portfolio project showcases a structured OKR-based project management system designed for PeopleCore Consulting, a fictional B2B HR advisory firm that partners with mid-sized organizations to optimize talent acquisition, leadership development, and employee engagement.
 
-As the company scales its client base and internal operations, leadership identified a growing disconnect between high-level strategic goals and day-to-day execution. To address this, an OKR (Objectives and Key Results) framework was adopted to:
+As PeopleCore scaled its services, it recognized a need to improve recruitment efficiency across client organizations. This OKR system was developed to align the firm's internal delivery teams with client outcomes—primarily increasing successful hire rates.
 
-- Align teams around clear, measurable goals
-
-- Improve visibility into project progress and outcomes
-
-- Foster a culture of accountability and focus
-
-This case study walks through the OKR implementation process, tools used, challenges faced, and how success was measured, with realistic mock data and artifacts.
-
+This case study documents the setup, execution, and tracking of OKRs focused on enhancing recruitment effectiveness, along with reflections and learnings from the process.
 
 ![okr](https://github.com/user-attachments/assets/13aea4c3-87fd-4fed-8c47-9778ce5c0cbc)
 
@@ -44,3 +37,37 @@ PeopleCore Consulting
 6. Diagram: OKR Alignment Tree
 
 7. Retrospective & Lessons Learned
+
+## Project Description & Purpose
+### Purpose:
+To implement a structured OKR system that improves transparency, team collaboration, and performance tracking in a fictional HR consulting firm.
+
+### Problem:
+Many growing startups lose alignment between departments, leading to siloed efforts and wasted resources.
+
+### Solution:
+A centralized OKR tracking system that:
+
+- Connects company vision to team activities.
+
+- Allows real-time progress tracking.
+
+- Encourages measurable outcomes.
+
+## Company Scenario
+### Company Name: 
+PeopleCore Consulting
+
+### Industry: 
+B2B HR Consulting (Recruitment & Talent Strategy)
+
+### Team Size: 
+20 (Consultants, HR Business Partners, Analysts)
+
+### Service Focus: 
+Recruitment optimization for mid-sized businesses and C-suites positions.
+
+### Strategic Priority: 
+Increase client hiring success rate through data-driven consulting and enhanced candidate pipelines.
+
+
